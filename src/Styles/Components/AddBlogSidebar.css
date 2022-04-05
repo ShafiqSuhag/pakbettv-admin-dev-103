@@ -1,0 +1,32 @@
+.add-blog-sidebar{
+    padding: 10px 20px 10px 20px;
+}
+.sidebar-paper{
+    background-color: #fff;
+    border: 1px solid #babbbc7e;
+    margin-bottom: 30px;
+}
+.sidebar-subHeadings{
+    font-size: 14;
+    padding: 8px 12px;
+    color: #1d2327;
+    line-height: 1.4;
+    border-bottom: 1px solid #737476;
+}
+.sidebar-paper-content{
+    padding: 2px 12px;
+   
+}
+.sidebar-paper-content p{
+    display: inline-block;
+    font-size: 13px;
+}
+.content-item>div{
+    width: 50%;
+    margin-left: 20px;
+    font-size: 13px;
+}
+.content-item{
+    display: flex;
+    align-items: center;
+}
